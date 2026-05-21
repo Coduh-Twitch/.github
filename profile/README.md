@@ -1,9 +1,6 @@
 #### Join coduh's Community
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/coduh) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/cTVvyh3zke) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@coduhz) 
 
-#### @Coduh-Twitch
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Coduh-Twitch)
-
 ---
 
 <img src="https://files.ducky.wiki/share/public_assets/coduh/shortbotduh_banner.png" style="border-radius: 8px;" />
