@@ -3,7 +3,7 @@
 
 ---
 
-<img src="https://files.ducky.wiki/share/public_assets/coduh/shortbotduh_banner.png" style="border-radius: 8px;" />
+<img src="https://files.ducky.wiki/share/public_assets/coduh/coduh_discord_icon_heart.png" style="border-radius: 8px;width:200px;height:200px;" />
 
 ## Welcome to Coduh's GitHub Homepage!
 
