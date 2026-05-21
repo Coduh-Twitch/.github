@@ -7,6 +7,7 @@
 ---
 
 <img src="https://files.ducky.wiki/share/public_assets/coduh/shortbotduh_banner.png" style="border-radius: 8px;" />
+
 ## Welcome to Coduh's GitHub Homepage!
 
 Coduh streams at [twitch.tv/coduh](https://twitch.tv/coduh) Thursday - Sunday ~8:30pm PST
